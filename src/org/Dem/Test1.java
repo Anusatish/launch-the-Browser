@@ -10,6 +10,12 @@ public class Test1 {
 			WebDriver driver=new ChromeDriver();
 			driver.get("https://www.google.com/");
 			
+			
+			
+			System.out.println("Browser launched sucessfully");
+			
+			System.out.println("Test project");
+			
 	}
 
 }

@@ -15,6 +15,8 @@ public class Test1 {
 			System.out.println("Browser launched sucessfully");
 			
 			System.out.println("Test project");
+		
+		System.out.println("New line added");
 			
 	}
 
